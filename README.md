@@ -11,8 +11,5 @@
 ⭐️ From [dhtbo](https://github.com/dhtbo)
 
 <br>
-![PMP](https://tse1-mm.cn.bing.net/th/id/OIP.sdBVegO9Af2WJl63-vsuGAAAAA?pid=Api&rs=1)
-
-<br>
 
 [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
